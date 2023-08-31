@@ -17,6 +17,6 @@ https://start.spring.io/
   * **Version de Java:** Tenemos la ***20, 17, 11, 8*** 'Elegiremos el **17**'
   * **Añadimos Dependencias:** Seleccionamos ***Sprint web***
 
+Debe de quedar como la siguiente imagen
 
-<p>Debe de quedar como la siguiente imagen<p>
 ![](img/generar_proyecto.png)
