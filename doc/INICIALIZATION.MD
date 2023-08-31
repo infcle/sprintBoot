@@ -19,6 +19,6 @@ https://start.spring.io/
 
 Debe de quedar como la siguiente imagen
 
-![](img/generar_proyecto.png)
+![](../img/generar_proyecto.png)
 
 Presionamos Generate y se nos descargara un archivo zip

@@ -1,6 +1,4 @@
 # Contenido
 
-* Requisitos minimos
-* [Inicializacion de proyecto](INICIALIZATION.MD)
-* 
-
+* [Requisitos minimos](doc/REQUISITOS_MINIMOS.MD)
+* [Inicializacion de proyecto](doc/INICIALIZATION.MD)
